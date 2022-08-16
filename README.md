@@ -1,2 +1,2 @@
 # kata
-codewars.com
+These are my solutions for problems on codewars.com.
